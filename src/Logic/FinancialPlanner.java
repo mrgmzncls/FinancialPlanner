@@ -1,6 +1,6 @@
 package Logic;
 
-public class Uso_App {
+public class FinancialPlanner {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
